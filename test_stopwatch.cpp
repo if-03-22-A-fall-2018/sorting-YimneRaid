@@ -15,6 +15,7 @@
 
 #include "stopwatch.h"
 #include "test_stopwatch.h"
+#include "sorting_algorithms.h"
 
 static void long_taking_function();
 
